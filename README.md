@@ -10,6 +10,15 @@ the steps, so your hand arrives a whole second before your feet do.
 `main.py` (pure Python standard library, `os` only) writes exactly one line
 — 95 characters — to `/output/entry.txt`.
 
+## Why this line
+
+> The escalator handrail outran the steps, and my hand arrived a whole second before my feet did.
+
+A real, specific, physical everyday fact almost nobody has ever phrased:
+the handrail genuinely moves slightly faster than the steps. The phrasing
+itself is the surprise ("outran"), and the wonder lands at the very end, in
+a single read, with one image and nothing explained.
+
 ## Run it
 
 ```sh
